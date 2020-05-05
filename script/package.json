@@ -1,0 +1,14 @@
+{
+  "name": "lofi-playlist",
+  "version": "1.0.0",
+  "description": "play lofi musics as a playlist",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc script2.ts"
+  },
+  "author": "Michael Chang",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.35"
+  }
+}
